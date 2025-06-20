@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.029d7b5a.css",
+    "main.js": "/static/js/main.c3b17bda.js",
+    "static/media/athul-graduation.jpg": "/static/media/athul-graduation.fdb43e570b586875fb1c.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.029d7b5a.css",
+    "static/js/main.c3b17bda.js"
+  ]
+}
