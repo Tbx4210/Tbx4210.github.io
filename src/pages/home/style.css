@@ -174,6 +174,15 @@ section {
     color: var(--primary-color)
 }
 
+#button_r {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+#button_r:hover {
+    color: var(--secondary-color)
+}
+
 .intro_sec .h_bg-image .block {
     bottom: 50vh;
     max-width: 220px;

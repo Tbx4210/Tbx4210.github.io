@@ -42,6 +42,29 @@ export const About = () => {
           </Col>
         </Row>
 
+        {/* Resume Download Section */}
+        <Row className="sec_sp">
+          <Col lg="12" className="text-center">
+                         <a 
+               href="/resume.pdf" 
+               download="athul_resume.pdf"
+               className="btn btn-primary btn-lg me-3"
+               style={{ textDecoration: 'none' }}
+             >
+              📄 Download My Resume
+            </a>
+            <a 
+              href="/resume.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="btn btn-outline-primary btn-lg"
+              style={{ textDecoration: 'none' }}
+            >
+              👁️ View Resume
+            </a>
+          </Col>
+        </Row>
+
         {/* Education Section */}
         <Row className="sec_sp">
           <Col lg="5">
